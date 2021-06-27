@@ -16,7 +16,9 @@ p {
     font-size: medium;
     line-height:2;
 }
-    
+   
+.pic {width:25%}
+
 .middle-container {
 margin: 100px 0;
                 }
